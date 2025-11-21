@@ -1,0 +1,10 @@
+# DIRECTORIO CRÍTICO: Dependencias instaladas por NPM
+/node_modules
+
+# Archivos de registro y caché generados por NPM
+npm-debug.log
+npm-debug.log.*
+.npm/
+
+# Archivos de log de la aplicación (si se generan)
+*.log
